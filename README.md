@@ -17,7 +17,7 @@ MAT-243 focuses on applying statistical methods in STEM contexts, covering:
 
 ## **Repository Structure**
 MAT-243/
-│
+
 ├── Module 1/ # Introduction to statistics, data collection methods
 
 ├── Module 2/ # Descriptive statistics and graphical summaries
