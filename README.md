@@ -19,14 +19,23 @@ MAT-243 focuses on applying statistical methods in STEM contexts, covering:
 MAT-243/
 │
 ├── Module 1/ # Introduction to statistics, data collection methods
+
 ├── Module 2/ # Descriptive statistics and graphical summaries
+
 ├── Module 3/ # Probability concepts and distributions
+
 ├── Module 4/ # Discrete and continuous random variables
+
 ├── Module 5/ # Confidence intervals and hypothesis testing
+
 ├── Module 6/ # t-tests, chi-square tests
+
 ├── Module 7/ # Correlation and linear regression
+
 ├── Module 8/ # Final project materials
+
 ├── ZyBooks_Mod_9/ # Additional exercises from ZyBooks (Module 9)
+
 └── README.md # Project documentation (this file)
 
 
